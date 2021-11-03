@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Emre. :blush:
 
-## Flutter Estimated Life Expectancy App |
+## Number Guessing Game |
 
 ### Connect with me:
 
